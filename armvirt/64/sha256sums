@@ -1,0 +1,6 @@
+fb435ba50b68056f1561f45236bcb77443eebc468c1dc7c5c129b88df743f570 *openwrt-22.03.5-armvirt-64-Image
+fab3326bfc0740e1717401c510951c154368e8bf6923d67d931968ea6e0b4a97 *openwrt-22.03.5-armvirt-64-default-rootfs.tar.gz
+25e58ceda728528a79d64a23a8d6273ea6cc0b653e95fce5939913a6f18b82c0 *openwrt-22.03.5-armvirt-64-default.manifest
+6f018b86b087a30256e392c37bdfd87a2f449d82a9eb5f730760a6b26b40df44 *openwrt-22.03.5-armvirt-64-rootfs-ext4.img.gz
+15a8c9341d7219692aeb6136f146471f04df2ba4aed89b6638a1b26f03f769da *openwrt-22.03.5-armvirt-64-rootfs-squashfs.img.gz
+c78c54c24298f100dabb8ab21491583bc96b9f9b9fe3a110de1c08c04e384472 *openwrt-22.03.5-armvirt-64-rootfs.cpio.gz
